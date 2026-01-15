@@ -1,6 +1,6 @@
 # Machine Learning Container
 
-A stripped down Linux container for data science 
+A Linux container for data science 
 
 
 ## Git Basics
